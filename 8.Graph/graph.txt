@@ -1,0 +1,9 @@
+in graph we make two arrays to store the set of vertices and set of edges in which edges is the linkedlist type of array
+class graph{
+    private int vertice[];
+    private LinkedList edges[];
+
+    graph(int size){
+        graph = new int[size];
+    }
+}

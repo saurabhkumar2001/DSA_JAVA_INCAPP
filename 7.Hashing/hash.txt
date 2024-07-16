@@ -1,0 +1,2 @@
+in hash we use node type of array to store the object so that it can connect with the all nodes and can print the data 
+hashtable will store the key and linked with that all the values will be linked.
